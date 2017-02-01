@@ -1,0 +1,76 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.857375,
+          2.293494
+        ]
+      },
+      "properties": {
+        "description": "Tour Eiffel",
+        "marker-size": "small",
+        "marker-color": "#7e0000",
+        "title": "SDC10149.JPG",
+        "marker-symbol": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.862051,
+          2.288907
+        ]
+      },
+      "properties": {
+        "description": "Tour Eiffel",
+        "marker-size": "small",
+        "marker-color": "#00007e",
+        "title": "SDC10212.JPG",
+        "marker-symbol": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.873782,
+          2.295458
+        ]
+      },
+      "properties": {
+        "description": "Arc de Triomphe",
+        "marker-size": "small",
+        "marker-color": "#00007e",
+        "title": "SDC10346.JPG",
+        "marker-symbol": "3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.861197,
+          2.335717
+        ]
+      },
+      "properties": {
+        "description": "Louvre",
+        "marker-size": "small",
+        "marker-color": "#00007e",
+        "title": "SDC10495.JPG",
+        "marker-symbol": "4"
+      }
+    }
+  ],
+  "type": "FeatureCollection",
+  "properties": {
+    "name": "Paris"
+  }
+}
