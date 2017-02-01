@@ -4,10 +4,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          48.857375,
-          2.293494
-        ]
+        "coordinates": [2.293494,48.857375]
       },
       "properties": {
         "description": "Tour Eiffel",
@@ -21,10 +18,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          48.862051,
-          2.288907
-        ]
+        "coordinates": [2.288907,48.862051]
       },
       "properties": {
         "description": "Tour Eiffel",
@@ -38,10 +32,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          48.873782,
-          2.295458
-        ]
+        "coordinates": [2.295458,48.873782]
       },
       "properties": {
         "description": "Arc de Triomphe",
@@ -55,10 +46,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          48.861197,
-          2.335717
-        ]
+        "coordinates": [2.335717,48.861197]
       },
       "properties": {
         "description": "Louvre",
