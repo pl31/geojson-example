@@ -53,12 +53,10 @@
         "marker-size": "small",
         "marker-color": "#00007e",
         "title": "SDC10495.JPG",
+        "name": "file://./SDC10495.JPG"
         "marker-symbol": "4"
       }
     }
   ],
-  "type": "FeatureCollection",
-  "properties": {
-    "name": "Paris"
-  }
+  "type": "FeatureCollection"
 }
