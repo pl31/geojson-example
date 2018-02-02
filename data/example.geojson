@@ -1,4 +1,5 @@
 {
+  "type": "FeatureCollection",
   "features": [
     {
       "type": "Feature",
@@ -56,6 +57,5 @@
         "marker-symbol": "4"
       }
     }
-  ],
-  "type": "FeatureCollection"
+  ]
 }
